@@ -62,7 +62,7 @@ export function constructMetadata({
       creator: "@Jeetjyoti_Deka",
     },
     icons,
-    metadataBase: new URL("https://saas-quill-yt.vercel.app"),
+    metadataBase: new URL("https://casecobra-yt.vercel.app"),
     ...(noIndex && {
       robots: {
         index: false,
